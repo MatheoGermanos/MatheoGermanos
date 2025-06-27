@@ -39,25 +39,55 @@
 
 ---
 
-## 🛠 Technical Skills
+## 💡 Technical Skills
 
-### 💻 Programming Languages
-`C++` · `C#` · `Java` · `Python` · `MIPS Assembly`
+### 👨‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MIPS-000000?style=for-the-badge&logoColor=white&label=Assembly"/>
+</p>
 
 ### 🌐 Web Development
-`HTML` · `CSS` · `JavaScript` · `PHP` · `React`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
 ### 📱 App Development
-`React Native`
 
-### 🗃️ Database Systems
-`SQL` · `MySQL` · `PostgreSQL`
+<p align="left">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
-### ⚙️ Tools & Platforms
-`GitHub` · `Mars MIPS` · `Microsoft Office`
+### 🗃️ Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mars%20MIPS-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+</p>
 
 ### 🧠 Design & Modeling
-`UML Diagrams` · `Software Modeling`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/UML-007ACC?style=for-the-badge&logo=uml&logoColor=white"/>
+</p>
 
 ---
 
