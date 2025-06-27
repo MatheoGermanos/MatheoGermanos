@@ -97,11 +97,14 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheogermanos&theme=algolia&show_icons=true&count_private=true&border_radius=12)
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheogermanos&show_icons=true&count_private=true&theme=github&border_radius=12" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheogermanos&layout=compact&theme=radical)
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheogermanos&layout=compact&theme=github&border_radius=12" />
 
 </div>
+
 
 ---
 
@@ -109,7 +112,8 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=matheogermanos&theme=onedark&no-frame=true&margin-w=10)
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=matheogermanos&theme=github&no-frame=true&margin-w=10" />
 
 </div>
 
@@ -119,11 +123,11 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheogermanos&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheogermanos&theme=github-compact" />
 
 </div>
 
----
 
 ## 📬 Contact Me
 
