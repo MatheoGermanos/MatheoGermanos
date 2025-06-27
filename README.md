@@ -67,8 +67,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheogermanos&theme=algolia&show_icons=true&count_private=true&border_radius=12)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=matheogermanos&theme=dracula&background=1E2B3C&currStreakNum=95CCFF)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheogermanos&layout=compact&theme=radical)
 
 </div>
